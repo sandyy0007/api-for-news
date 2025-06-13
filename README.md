@@ -20,5 +20,7 @@ JavaScript was the backbone of the functionality, allowing me to fetch the news 
 # OUTPUT OF THE TASK
 
 <<<<<<< HEAD
+=======
+![Screenshot 2025-01-08 213811](https://github.com/user-attachments/assets/60a6a147-8e1c-4a50-9d7b-bfb277eeba25)
 ![API Banner](assets/api  intigeration.png)
 >>>>>>> ec7c4dd9d0e9f13b0a2cddf8ed68b6376e699ae8
