@@ -19,4 +19,5 @@ JavaScript was the backbone of the functionality, allowing me to fetch the news 
 
 # OUTPUT OF THE TASK
 
-![Screenshot 2025-01-08 213811](https://github.com/user-attachments/assets/60a6a147-8e1c-4a50-9d7b-bfb277eeba25)
+![API Banner](assets/api  intigeration.png)
+
